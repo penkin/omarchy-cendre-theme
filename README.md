@@ -2,7 +2,7 @@
 
 A warm, dark Omarchy theme based on [Cendre](https://cendretheme.com/) by [aejkatappaja](https://github.com/Aejkatappaja/cendre). Ash-black surfaces, cream text, copper accents and brass window borders, with three wallpapers built around glowing wood, ash and smoke.
 
-[![Cendre on an Omarchy desktop with LazyVim, btop and Ember Atlas](assets/themes/cendre.webp)](assets/themes/cendre.png)
+[![Cendre on an Omarchy desktop with LazyVim, btop and Ember Atlas](assets/themes/cendre.webp)](assets/themes/cendre.webp)
 
 ## Install
 
