@@ -1,0 +1,14 @@
+Cendre folder icons are adapted from Yaru by the Ubuntu Yaru contributors,
+including the Suru icon artwork credited in the source SVG metadata.
+Source: https://github.com/ubuntu/yaru/blob/master/icons/src/fullcolor/accented-full/places/folders.svg
+License: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+The full license is included in LICENSE in this directory.
+
+Modifications by penkin (2026): accent green replaced with Cendre ember
+(#ea9875), dark green with ash (#5a504c), white highlights with brass
+(#fcba81), and grey paper with cream (#e6d5c2). Geometry is preserved.
+PNG sizes and HiDPI variants are rendered from source/folders.svg by
+scripts/build-icons.py. Derived artwork remains under CC BY-SA 4.0.
+Other icon names inherit from the system Yaru, Adwaita and hicolor themes;
+those fallback assets are not redistributed here.

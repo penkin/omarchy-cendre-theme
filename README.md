@@ -2,7 +2,9 @@
 
 A warm, dark Omarchy theme based on [Cendre](https://cendretheme.com/) by [aejkatappaja](https://github.com/Aejkatappaja/cendre). Ash-black surfaces, cream text, copper accents and brass window borders, with three wallpapers built around glowing wood, ash and smoke.
 
-[![Cendre on an Omarchy desktop with LazyVim, btop and Ember Atlas](assets/themes/cendre.webp)](assets/themes/cendre.webp)
+[![Cendre on an Omarchy desktop with Neovim, btop and custom copper folder icons](assets/themes/cendre.webp)](assets/themes/cendre.png)
+
+Click the preview for the full-resolution screenshot. The root `preview.webp` supplies the same image to Omarchy's theme selector; `assets/themes/cendre.webp` is the 1200 × 675 version for the community gallery.
 
 ## Install
 
@@ -22,6 +24,24 @@ omarchy theme bg next
 ```
 
 Choose another theme from Omarchy's theme picker whenever you want to switch back.
+
+## Matching folder icons
+
+The bundled Cendre icon theme gives folders copper faces, ash-colored symbols and brass highlights. It includes Home, Desktop, Documents, Downloads, Music, Pictures, Videos and other folder variants, with small and HiDPI sizes. Other icons inherit from your installed Yaru theme, with Adwaita as a fallback.
+
+![Cendre folder icons](assets/themes/cendre-icons.png)
+
+After installing the Omarchy theme, install the icons once:
+
+```bash
+bash ~/.config/omarchy/themes/cendre/scripts/install-icons.sh
+```
+
+The script copies the icon set to your user data directory and selects it immediately. No root access is needed. Close and reopen Files if it keeps showing the previous icons. Run the script again after updating the theme to pick up icon changes.
+
+The theme's `icons.theme` selects Cendre on later theme switches. Omarchy doesn't install bundled icon assets automatically, so the command above is needed for the custom folders to appear.
+
+To rebuild the icons from the included recolored SVG, run `python scripts/build-icons.py` from this repository. This requires Python 3 and `rsvg-convert` (provided by `librsvg` on Arch).
 
 ## Colors
 
@@ -86,4 +106,6 @@ The wallpapers were AI-generated with OpenAI image generation. An existing wallp
 
 Cendre's palette and original Neovim theme are by [aejkatappaja](https://github.com/Aejkatappaja/cendre), under the MIT license. This independent Omarchy adaptation and its accompanying wallpapers were assembled by [penkin](https://github.com/penkin).
 
-Repository contents are provided under the [MIT license](LICENSE), including the generated wallpapers to the extent rights can be granted. The upstream copyright notice is preserved.
+The theme configuration, documentation, scripts and generated wallpapers are provided under the [MIT license](LICENSE), to the extent rights can be granted. The upstream Cendre copyright notice is preserved.
+
+The folder artwork in `icons/Cendre/` and the icon preview are adapted from [Ubuntu Yaru](https://github.com/ubuntu/yaru) and remain under [CC BY-SA 4.0](icons/Cendre/LICENSE). See the [artwork attribution and color changes](icons/Cendre/ATTRIBUTION.txt).
