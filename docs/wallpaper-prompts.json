@@ -1,0 +1,18 @@
+{
+  "generator": "built-in imagegen",
+  "reference": "The original local wallpaper was used for cinematic lighting, texture and atmosphere only. It is not distributed in this repository.",
+  "prompts": [
+    {
+      "name": "Ember Atlas",
+      "prompt": "Use case: stylized-concept. Produce one polished landscape desktop wallpaper 2560x1440, 16:9. Reference image supplies ONLY the cinematic painterly illustration quality, dramatic light, atmospheric depth and detailed textured rendering. Do NOT reuse its car, road, sun-disc composition, branding, mountains or racing subject. Actual subject must embody Cendre: one wood fire taken apart, charcoal, wood ash, copper embers, brass light. Palette: warm near-black #171311 / #0f0c0a dominant, ash #5a504c, ember #ea9875, cinder #d1766e, brass #fcba81, pale warm highlights #e6d5c2, tiny restrained cool #4e89a2 where appropriate. Beautiful controlled contrast, large quiet dark areas for desktop windows. No words, logos, frames, neon or watermarks. Scene: EMBER ATLAS. An immersive low macro view across a monumental charred log, its cracked black bark like dramatic ravines with deep copper-orange embers glowing within. Flecks of pale ash settle over the jagged surface. A few delicate sparks rise into smoky charcoal negative space occupying upper half, amber illumination diffusing through smoke, exquisitely tactile and cinematic. No open bonfire, no enormous flames; the quiet heat after the fire."
+    },
+    {
+      "name": "Ash Veil",
+      "prompt": "Scene: ASH VEIL. A close cinematic still life of one blackened split piece of timber lying diagonally across the lower third in a soft deep charcoal ash bed. A thin glowing copper seam runs through the wood. Above it, graceful sculptural ribbons of ash-grey smoke curl gently through the dark, lit along one edge by warm brass embers below, with just a trace of cool slate in distant smoke. The smoke is the main visual gesture; luxurious dark space, tactile painterly detail, warm meditative atmosphere. No landscape, no sun, no car, no people."
+    },
+    {
+      "name": "Last Light",
+      "prompt": "Scene: LAST LIGHT. A beautifully illustrated intimate forest floor at blue hour after a small wood fire has faded: a shallow bed of softly glowing copper coals among sculptural black charcoal pieces and pale ash in foreground, dark moss and weathered fallen timber nearby. Fine warm sparks rise and fade into tall shadowy tree trunks and delicate cool mist. Strong atmospheric depth, cinematic low perspective, no campsite equipment or humans, no active wildfire, no large flames. Copper glow low in frame, upper two thirds mostly dark quiet smoky forest. The gentle glowing ash bed is the hero."
+    }
+  ]
+}
