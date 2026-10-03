@@ -2,7 +2,7 @@
 
 A warm, dark Omarchy theme based on [Cendre](https://cendretheme.com/) by [aejkatappaja](https://github.com/Aejkatappaja/cendre). Ash-black surfaces, cream text, copper accents and brass window borders, with three wallpapers built around glowing wood, ash and smoke.
 
-![Ember Atlas wallpaper](backgrounds/01-ember-atlas.png)
+[![Cendre on an Omarchy desktop with LazyVim, btop and Ember Atlas](assets/themes/cendre.webp)](assets/themes/cendre.png)
 
 ## Install
 
@@ -73,6 +73,8 @@ The three PNGs are 1672 × 941 pixels. Omarchy scales them to your display.
 - [Ember Atlas](backgrounds/01-ember-atlas.png): cracked charcoal, copper heat and drifting sparks.
 - [Ash Veil](backgrounds/02-ash-veil.png): a glowing seam beneath ribbons of smoke.
 - [Last Light](backgrounds/03-last-light.png): fading coals on a misty forest floor.
+
+![Ember Atlas wallpaper](backgrounds/01-ember-atlas.png)
 
 ![Ash Veil wallpaper](backgrounds/02-ash-veil.png)
 
