@@ -88,17 +88,17 @@ Restart Neovim and let Lazy install the plugin. This is a personal editor prefer
 
 ## Wallpapers
 
-The three PNGs are 1672 × 941 pixels. Omarchy scales them to your display.
+The three WebP images are 1672 × 941 pixels. Omarchy scales them to your display.
 
-- [Ember Atlas](backgrounds/01-ember-atlas.png): cracked charcoal, copper heat and drifting sparks.
-- [Ash Veil](backgrounds/02-ash-veil.png): a glowing seam beneath ribbons of smoke.
-- [Last Light](backgrounds/03-last-light.png): fading coals on a misty forest floor.
+- [Ember Atlas](backgrounds/01-ember-atlas.webp): cracked charcoal, copper heat and drifting sparks.
+- [Ash Veil](backgrounds/02-ash-veil.webp): a glowing seam beneath ribbons of smoke.
+- [Last Light](backgrounds/03-last-light.webp): fading coals on a misty forest floor.
 
-![Ember Atlas wallpaper](backgrounds/01-ember-atlas.png)
+![Ember Atlas wallpaper](backgrounds/01-ember-atlas.webp)
 
-![Ash Veil wallpaper](backgrounds/02-ash-veil.png)
+![Ash Veil wallpaper](backgrounds/02-ash-veil.webp)
 
-![Last Light wallpaper](backgrounds/03-last-light.png)
+![Last Light wallpaper](backgrounds/03-last-light.webp)
 
 The wallpapers were AI-generated with OpenAI image generation. An existing wallpaper served as a reference for lighting, texture and atmosphere; the subjects come from Cendre's wood-fire concept. The reference image is not included. The [generation prompts](docs/wallpaper-prompts.json) are included; their requested size differs from the delivered image dimensions above.
 
